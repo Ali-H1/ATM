@@ -552,7 +552,6 @@ int main(){
     newobj9.set_balance(450000);
     newobj10.set_balance(760000);
 
-    costumers.push_back(aaa);
     costumers.push_back(newobj);
     costumers.push_back(newobj2);
     costumers.push_back(newobj3);
