@@ -540,7 +540,6 @@ int main(){
     Bank newobj8 ("6362141080842432",47837,"ron");
     Bank newobj9 ("6362141080848767",47826,"hull");
     Bank newobj10("6362141080849854",37846,"brad");
-    Bank aaa("123",123,"hello");
 
     newobj.set_balance(170000);
     newobj2.set_balance(50000);
